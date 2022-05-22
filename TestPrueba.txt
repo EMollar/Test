@@ -4,3 +4,5 @@ Cambios en pcmesa
 4o cambio en portatil
 
 git reset
+
+cambio en pcmesa
