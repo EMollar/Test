@@ -2,3 +2,5 @@ Cambios en portatil
 Cambios en pcmesa
 3er cambio en portatil
 4o cambio en portatil
+
+git reset
